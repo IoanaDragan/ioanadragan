@@ -19,7 +19,11 @@ Hi 👋 My name is Ioana Dragan
 Senior Java Developer
 ---------------------
 
-I am a Senior Java Developer with 15 years of experience in building robust, high-performance applications. Over the past few years, I have developed a deep passion for Machine Learning and Artificial Intelligence. I am currently on an exciting learning journey, continuously expanding my knowledge and expertise in these cutting-edge fields. My current focus is exploring the practical applications of AI in solving real-world problems. I am actively involved in hands-on projects that challenge my skills and allow me to apply what I learn in meaningful ways. I believe in the power of collaboration and open-source development. I am eager to connect with like-minded professionals and contribute to innovative projects that push the boundaries of technology. Let's work together to create impactful solutions and drive the future of AI and machine learning.
+I am a Senior Java Developer with 15 years of experience in building robust, high-performance applications. Over the past few years, I have developed a deep passion for Machine Learning and Artificial Intelligence. 
+
+I am currently on an exciting learning journey, continuously expanding my knowledge and expertise in these cutting-edge fields. My current focus is exploring the practical applications of AI in solving real-world problems. I am actively involved in hands-on projects that challenge my skills and allow me to apply what I learn in meaningful ways. 
+
+I believe in the power of collaboration and open-source development. I am eager to connect with like-minded professionals and contribute to innovative projects that push the boundaries of technology. Let's work together to create impactful solutions and drive the future of AI and machine learning.
 
 * 🌍  I'm based in Bucharest
 * ✉️  You can contact me at [draganioana.23@gmail.com](mailto:draganioana.23@gmail.com)
